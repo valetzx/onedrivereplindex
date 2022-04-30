@@ -27,3 +27,4 @@ VALUE：你的想挂载的 onedrive 邮箱
 KEY：REDIS_URL
 VALUE：redis://:@127.0.0.1:6666
 ```
+# 更多参数设置：https://ovi.swo.moe/
