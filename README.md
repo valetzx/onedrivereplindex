@@ -16,7 +16,7 @@
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
 
 
-# 在环境变量中添加如下内容：
+# 重要！运行前请在🔒环境变量中添加如下内容：
 
 ```
 KEY：NEXT_PUBLIC_USER_PRINCIPLE_NAME
