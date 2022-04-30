@@ -8,3 +8,15 @@
 </a>
 
 教育版：
+
+# 在环境变量中添加如下内容：
+
+```
+KEY：NEXT_PUBLIC_USER_PRINCIPLE_NAME
+VALUE：你的想挂载的 onedrive 用户名
+```
+
+```
+KEY：REDIS_URL
+VALUE：redis://:@127.0.0.1:6666
+```
