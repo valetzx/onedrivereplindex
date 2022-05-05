@@ -1,5 +1,5 @@
 # onedrivereplindex
-在replit部署 onedrive-vercel-index 
+在replit部署 onedrive-vercel-index + 本地redis缓存
 
 个人版：
 
